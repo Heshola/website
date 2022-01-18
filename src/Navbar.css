@@ -1,0 +1,65 @@
+.overall{
+    display: flex;
+    justify-content: space-around;
+}
+.overall img{
+    width: 8%;
+    height: 8%;
+    margin-top: 1%;
+}
+.flex{
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin-top: 2%;
+    font-size: 70%;
+}
+.flex a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+.overall button{
+    float: right;
+    margin-right: 60px;
+    height: 50px;
+    width: 110px;
+    margin-top: 30px;
+    border-radius: 10px;
+  }
+.log{
+    background-color: transparent;
+    margin-left: 60px;
+    border-style: none;
+  }
+.get{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 30%;
+    height: 7%;
+    border-radius: 10px;
+    color: white;
+  }
+  .new{
+    display: flex;
+    justify-content: space-around;
+    position: relative;
+    top: 5rem;
+  }
+  .new img{
+    width: 500px;
+    border-radius: 10%;
+  }
+  .start{
+    background-color: #0B5D9C;
+    border-style: none;
+    width: 30%;
+    height: 7%;
+    color: white;
+    margin-right: 1%;
+  }
+  .new input{
+    height: 6%;
+  }

@@ -1,0 +1,20 @@
+.feat{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2339754D;
+}
+.send{
+    background-color: #0B5D9C;
+    border-radius: 5%;
+    border-style: none;
+    height: 13%;
+    color: white;
+}
+.feat input{
+    height: 10%;
+    border-style: none;
+}
+.feat img{
+    width: 5rem;
+    height: 5rem;
+}

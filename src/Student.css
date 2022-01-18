@@ -1,0 +1,21 @@
+.goal{
+    text-align: center;
+    margin-top: 10%;
+}
+.cool{
+    top: 3880px;
+    left: 807px;
+    width: 175px;
+    height: 50px;
+    background: #0B5D9C 0% 0% no-repeat padding-box;
+    border-radius: 0px 4px 4px 0px;
+}
+.goal input{
+    top: 3880px;
+    left: 458px;
+    width: 350px;
+    height: 50px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #DEDEDF;
+    border-radius: 4px 0px 0px 4px;
+}
